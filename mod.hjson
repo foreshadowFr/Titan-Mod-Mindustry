@@ -1,0 +1,6 @@
+name: "test-mod"
+author: "Us"
+description: "test"
+version: "0.01"
+  //pour dire en quelle version on peut y jouer
+mingameVersion: "146"  
