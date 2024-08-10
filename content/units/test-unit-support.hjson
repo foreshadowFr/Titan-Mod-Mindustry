@@ -1,0 +1,19 @@
+name: "test-unit-2"
+type: "flying"
+"speed": 1.5
+"flying": true
+"health": 100
+//c'est la hitbox  
+"hitsize": 5  
+"armor": 0
+"itemCapacity": 20
+//où est le "reacteur" par rapport au centre du sprite  
+"engineOffset": 5  
+"faceTarget": true
+//le tier maximum qu'il peut miner
+mineTier: 2  
+mineSpeed: 1.5
+mineRange: 40
+
+research: "air-factory"
+  
