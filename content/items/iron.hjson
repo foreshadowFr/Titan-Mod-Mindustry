@@ -1,0 +1,13 @@
+type: item
+name: "Iron"
+description: "test"
+//le "tier" du minerai (ex: cuivre = 1, titane = 2, thorium = 3)  
+hardness: 1  
+explosiveness: 0
+flammability: 0
+radioactivity: 0  
+  //la flammability doit être au moins de 0.3 pour être utilisée dans les BurnerGenerator
+"research": "core-shard"
+  hiddenOnPlanets: [
+  "erekir"
+  ]
