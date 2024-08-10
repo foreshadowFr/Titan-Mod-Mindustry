@@ -3,9 +3,9 @@
 "type": "Wall"
 "health": 100
 "size": 1
-"requirements": {
-  copper/10
-}
+requirements: [
+ copper/10
+]
   "category": "defense"
   "research": copper-wall"  
   
