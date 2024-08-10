@@ -1,0 +1,18 @@
+//ca va peut-être pas marcher :P
+type: ConsumeGenerator
+size: 1
+hasLiquids : false
+//NB : temps en tick
+itemDuration: 70  
+consumes: {
+  "items": [
+    coal/1
+    ]
+}
+  powerProduction: 1
+  category: power
+  requirements: [
+    arcanite/20
+    ]
+    research: "combustion-generator"
+    
