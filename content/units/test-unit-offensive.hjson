@@ -1,0 +1,28 @@
+name: "test"
+description: "test"
+speed: 0.5
+health: 100
+armor: 0
+faceTarget: true
+rotateSpeed: 10
+//si l'unité terrestre peut voler ou pas, comme le Nova
+canBoost: false  
+canDrown: true
+weapons: [
+{
+  name: "test"
+  reload: 10
+  //nombre de balles par tir
+  shots: 1
+  shootSound: shoot
+  bullet: {
+  type: bullet
+  damage: 20
+  speed: 8
+  //la portée de la balle
+  lifetime: 50  
+}
+}
+]
+research: "ground-factory"
+category: GroundUnit  
