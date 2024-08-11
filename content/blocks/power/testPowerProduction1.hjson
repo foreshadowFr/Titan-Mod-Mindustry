@@ -12,7 +12,7 @@ consumes: {
   powerProduction: 1
   category: power
   requirements: [
-    arcanite/20
+    "arcanite/20"
     ]
-    research: "combustion-generator"
+    "research": combustion-generator
     
