@@ -1,0 +1,2 @@
+le script peut etre utilisé pour le modding avancé, comme les foreuses d'Erekir sur les murs, et les broyeurs de paroies. 
+Certains mods utilisent que le script car c'est plus compact, mais moins facile à apprendre
