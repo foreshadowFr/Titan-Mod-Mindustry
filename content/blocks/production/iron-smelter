@@ -1,0 +1,36 @@
+type: "GenericCrafter"
+"description": ""
+"health": 100
+"size": 2
+"hasItem": true
+//crafttime en tick pas en seconde
+"craftTime": 60
+"craftEffect": "none"
+  //drawer=couche de textures/d'effets qui se superposent sur un bloc (PS: peut-etre celui la marche pas)
+       "drawers": [
+        {
+        "type": "DrawDefault"
+        },
+     {
+       "type": "DrawGlowRegion",
+       "suffix": "-top", 
+       "glowScale": 10,
+       "color": "ff8400"
+     },
+  ],
+  "hasPower": true
+  //effet qui se joue à moments aléatoires ou non, comme les effets de minage pour les foreuses 
+  "updateEffect": "none"
+  "consumes": {
+  "power": 0.70
+    "items": [
+    "iron/1"
+    "coal/1"
+    ]
+}
+"requirements": [
+  iron/20
+]
+   "category": "crafting"
+   "outputItem": "iron-plate/1"
+"research": silicon-smelter
