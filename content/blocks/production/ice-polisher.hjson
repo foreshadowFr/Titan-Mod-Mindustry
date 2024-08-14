@@ -1,0 +1,9 @@
+type: "GenericCrafter"
+name: "Limeur de glace"
+description: "lime de la glace"
+health: "150"
+size: 2
+hasItems: true
+craftTime: 150
+  "craftEffect": "none"
+  has
