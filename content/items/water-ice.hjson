@@ -1,0 +1,13 @@
+name: "glace d'eau"
+description: "de la glace d'eau : aussi dur que de la roche sur Titan"
+details: "pour ceux qui savent pas de la glace d'eau, c'est de l'eau glacée :O"
+"cost": 1
+"color": "a0a5a8"
+"flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  research: "iron"
+  
+  
+
+
