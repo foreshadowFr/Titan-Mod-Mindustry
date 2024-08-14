@@ -1,6 +1,6 @@
-name: "test-mod"
+name: "Saturn Explorer"
 author: "Us"
-description: "test"
+description: "Exlore the rings of Saturn"
 version: "alpha 0"
   //pour dire en quelle version on peut y jouer
 minGameVersion: "136"  
