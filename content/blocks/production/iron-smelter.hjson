@@ -8,14 +8,6 @@ type: "GenericCrafter"
 "craftTime": 20
 "craftEffect": ""
   //drawer=couche de textures/d'effets qui se superposent sur un bloc (PS: peut-etre celui la marche pas)
-       "drawers": [
-        {
-        "type": "DrawDefault"
-        },
-     {
-       "type": "DrawFlame",
-     },
-  ],
   "hasPower": true
   //effet qui se joue à moments aléatoires ou non, comme les effets de minage pour les foreuses 
   "updateEffect": "none"
