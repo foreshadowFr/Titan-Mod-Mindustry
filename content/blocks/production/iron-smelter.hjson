@@ -4,7 +4,7 @@ type: "GenericCrafter"
 "name" : "Iron Combustion Smelter"
 "hasItem": true
 //crafttime en tick pas en seconde
-"craftTime": 20
+"craftTime": 60
 "craftEffect": "none"
   //drawer=couche de textures/d'effets qui se superposent sur un bloc (PS: peut-etre celui la marche pas)
        "drawers": [
@@ -25,8 +25,11 @@ type: "GenericCrafter"
   "power": 0.70
     "items": [
     "iron/1"
-    "coal/1"
     ]
+    "liquids": [
+    "ammoniac/0.2"
+    ]
+
 }
 "requirements": [
   iron/20
