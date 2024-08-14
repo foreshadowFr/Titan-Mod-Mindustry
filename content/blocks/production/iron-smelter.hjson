@@ -14,12 +14,6 @@ type: "GenericCrafter"
         },
      {
        "type": "DrawFlame",
-       "flameRadius": 2
-       "flameRadiusIn": 1
-       "flameRadiusScl": 2
-       "flameRadiusMag": 2
-       "flameRadiusInMag": 1
-       "flameColor": "ff8400"
      },
   ],
   "hasPower": true
