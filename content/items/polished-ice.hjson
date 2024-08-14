@@ -1,0 +1,11 @@
+type: "item"
+name: "Glace polie"
+description: "matériau de construction basique mais utile"
+details: "attention à ne pas glisser :)"
+"cost": 1
+"color": "c3d7e3"
+ "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: "water-ice"
