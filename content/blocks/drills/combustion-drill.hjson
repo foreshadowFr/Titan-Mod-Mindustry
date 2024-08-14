@@ -1,0 +1,29 @@
+name: "Foreuse à combustion"
+description:"Une foreuse basique qui mine lentement. utilise de l’ammoniac solide pour extraire de simples matériaux, tel que du fer"
+type: "Drill"
+size: 2
+health: 200
+"itemCapacity": 10
+   "drillTime": 70,
+  "drawMineItem": true,
+"tier": 1
+"hasPower": false
+ "rotateSpeed": 3
+  consumes: {
+    liquid: {
+      liquid: ammoniac
+      amount: 0.09
+      optional: false
+      booster: false
+    }
+  }
+ requirements: [
+    iron/15
+  ]
+  "category": "production",
+research: {
+    parent: "core",
+      }
+  researchCost: [
+    iron/50
+      ]
