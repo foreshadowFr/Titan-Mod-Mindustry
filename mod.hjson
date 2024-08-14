@@ -3,4 +3,4 @@ author: "Us"
 description: "test"
 version: "alpha 0"
   //pour dire en quelle version on peut y jouer
-mingameVersion: "136"  
+minGameVersion: "136"  
