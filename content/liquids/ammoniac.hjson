@@ -4,6 +4,7 @@ description: "liquide pouvant être utilisé comme combustible de base trouvable
 details: "l'ammoniac est liquide due à la température de la lune"
 gas: "false"
 barColor: "86C3C1"
+color: 86C3C1
   research: {
   parent: "iron"
   }
