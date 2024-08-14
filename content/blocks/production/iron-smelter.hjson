@@ -6,7 +6,7 @@ type: "GenericCrafter"
 "hasItem": true
 //crafttime en tick pas en seconde
 "craftTime": 20
-"craftEffect": "none"
+"craftEffect": "Smoke"
   //drawer=couche de textures/d'effets qui se superposent sur un bloc (PS: peut-etre celui la marche pas)
        "drawers": [
         {
