@@ -6,17 +6,20 @@ type: "GenericCrafter"
 "hasItem": true
 //crafttime en tick pas en seconde
 "craftTime": 20
-"craftEffect": "Smoke"
+"craftEffect": ""
   //drawer=couche de textures/d'effets qui se superposent sur un bloc (PS: peut-etre celui la marche pas)
        "drawers": [
         {
         "type": "DrawDefault"
         },
      {
-       "type": "DrawGlowRegion",
-       "suffix": "-top", 
-       "glowScale": 10,
-       "color": "ff8400"
+       "type": "DrawFlame",
+       "flameRadius": 2
+       "flameRadiusIn": 1
+       "flameRadiusScl": 2
+       "flameRadiusMag": 2
+       "flameRadiusInMag": 1
+       "flameColor": "ff8400"
      },
   ],
   "hasPower": true
