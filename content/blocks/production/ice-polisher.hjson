@@ -7,4 +7,20 @@ hasItems: true
 craftTime: 150
   "craftEffect": "none"
   "hasPower": false
-  
+  updateEffect: "none"
+  "consumes": {
+"items": [
+"water-ice/2"
+]
+}
+"requirements": [
+    yttrium/25
+    arcanite/15
+  ],
+  "category": "crafting",
+  "outputItem": "aluminium/1"
+"requirements": [
+    iron-plate/10
+  ],
+  "category": "crafting",
+  "outputItem": "polished-ice/1"
