@@ -2,6 +2,7 @@ type: "GenericCrafter"
 "description": ""
 "health": 100
 "size": 2
+"name" : "Iron Combustion Smelter"
 "hasItem": true
 //crafttime en tick pas en seconde
 "craftTime": 60
