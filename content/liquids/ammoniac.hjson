@@ -1,5 +1,5 @@
 type: "liquid"
-name: "ammoniac"
+name: "Ammoniac"
 description: "liquide pouvant être utilisé comme combustible de base trouvable dans les cryogeysers répartis sur la planète."
 details: "l'ammoniac est liquide due à la température de la lune"
 gas: "false"
