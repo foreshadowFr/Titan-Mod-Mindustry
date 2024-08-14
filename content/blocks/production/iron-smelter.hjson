@@ -22,7 +22,6 @@ type: "GenericCrafter"
   //effet qui se joue à moments aléatoires ou non, comme les effets de minage pour les foreuses 
   "updateEffect": "none"
   "consumes": {
-  "power": 0.70
     "items": [
     "iron/1"
     ]
@@ -36,5 +35,5 @@ type: "GenericCrafter"
 ]
    "category": "crafting"
    "outputItem": "iron-plate/1"
-"research": silicon-smelter
+"research": "combustion-drill"
 
