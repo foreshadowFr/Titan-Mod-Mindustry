@@ -1,0 +1,11 @@
+type: "item"
+name: "Glace polie"
+description: ""
+details: ""
+"cost": 3
+"color": "c3d7e3"
+ "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: "iron"
