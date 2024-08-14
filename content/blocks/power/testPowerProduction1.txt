@@ -6,7 +6,7 @@ hasLiquids : false
 itemDuration: 70  
 consumes: {
   "items": [
-    coal/1
+    "coal/1"
     ]
 }
   powerProduction: 1
@@ -14,5 +14,5 @@ consumes: {
   requirements: [
     "arcanite/20"
     ]
-    "research": combustion-generator
+    "research": "combustion-generator"
     
