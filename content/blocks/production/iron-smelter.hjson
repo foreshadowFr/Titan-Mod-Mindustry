@@ -1,3 +1,4 @@
+type: "GenericCrafter"
 "health": 100
 "size": 2
 "name" : "Iron Combustion Smelter"
