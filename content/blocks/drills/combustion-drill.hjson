@@ -4,7 +4,7 @@ type: "Drill"
 size: 2
 health: 200
 "itemCapacity": 10
-   "drillTime": 70,
+   "drillTime": 300,
   "drawMineItem": true,
 "tier": 1
 "hasPower": false
