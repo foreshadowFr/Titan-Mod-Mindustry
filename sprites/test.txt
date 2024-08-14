@@ -1,1 +1,2 @@
 pour faire des sprites je conseille Piksel : https://www.piskelapp.com/p/create/sprite
+PS : Pour qu'un bloc ait un sprite il faut que le sprite ait le même nom que le fichier dans "content"
