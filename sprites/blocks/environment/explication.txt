@@ -1,0 +1,1 @@
+la palette environnment n'est à utiliser que pour les blocs/sols de décoration et non les minerais (heureusement)
