@@ -41,3 +41,30 @@ hiddenItems: [
         "dormant-cyst"
         "cryofluid"
 ]
+cloudMesh: {
+type: HexSkyMesh
+planet: titan
+seed: 4
+speed: 1
+radius: 0.5
+divisions: 3
+color: d9d480
+octave: 2
+persistance: 5
+  scl: 2
+  thresh: 0.45
+}
+   mesh: {
+     type: NoiseMesh
+     planet: titan
+     seed: 34
+     color1: f5e4c6
+     color2: ab823a
+     divions: 3
+     radius: 1
+     octaves: 8
+     persistance: 1
+     scale: 2
+     mag: 1
+   }
+
