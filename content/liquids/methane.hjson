@@ -1,0 +1,7 @@
+name: "methane"
+description: "Un hydrocarbure simple"
+cache: "water"
+gas: false
+barColor: "013c52"
+color: 013c52
+parent: "ammoniac"
