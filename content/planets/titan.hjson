@@ -10,7 +10,7 @@ atmosphereColor: e3be68
 drawOrbit: true
 accessible: true
 alwaysUnlocked: true
-defaultCore: "core-unit-1"
+defaultCore: "core-1"
 sectorSeed: 34
 startSector: 3
 sectorSize: 1
