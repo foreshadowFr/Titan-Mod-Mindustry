@@ -1,7 +1,7 @@
-name: "methane"
+type: "liquid"
+name: "Méthane"
 description: "Un hydrocarbure simple"
-cache: "water"
-gas: false
+gas: "false"
 barColor: "013c52"
 color: 013c52
 research: {
