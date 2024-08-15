@@ -1,12 +1,11 @@
-type: "floor"
+type: Floor
 name: "Methane liquide"
 description: "flemme d'en faire une"
 isLiquid: true
 liquidDrop: "methane"
-variants: 1
-statusDuration: 300
+variants: 0
 speedMultiplier: 0.1
 status: "freezing"
 cacheLayer: "tar"
-drownTime: "200"
-"blendGroup": "stone"
+albedo: 1
+
