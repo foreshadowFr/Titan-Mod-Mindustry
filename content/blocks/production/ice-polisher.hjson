@@ -14,12 +14,9 @@ craftTime: 150
 ]
 }
 "requirements": [
-    iron-plate/4
+    iron-plate/5
   ],
   "category": "crafting",
   "outputItem": "polished-ice/1"
-"requirements": [
-    iron-plate/10
-  ],
-  "category": "crafting",
-  "outputItem": "polished-ice/1"
+
+research: "iron-smelter"
