@@ -22,7 +22,7 @@ health: 200
   ]
   "category": "production",
 research: {
-    parent: "core",
+    parent: "core-unit-1",
       }
   researchCost: [
     iron/50
