@@ -1,10 +1,10 @@
 type: "GenericCrafter"
-name: "Limeur de glace"
-description: "lime de la glace"
 health: "150"
 size: 2
-hasItems: true
-craftTime: 150
+name: "Limeur de glace"
+description: "lime de la glace"
+"hasItems": true
+"craftTime": 150
   "craftEffect": "none"
   "hasPower": false
   updateEffect: "none"
@@ -18,5 +18,4 @@ craftTime: 150
   ],
   "category": "crafting",
   "outputItem": "polished-ice/1"
-
 research: "iron-smelter"
