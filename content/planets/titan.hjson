@@ -11,7 +11,7 @@ drawOrbit: true
 accessible: true
 alwaysUnlocked: true
 defaultCore: "core-1"
-sectorSeed: 34
+sectorSeed: 69
 startSector: 3
 sectorSize: 0.5
 clearSectorOnLose: false
@@ -56,7 +56,7 @@ persistance: 5
    mesh: {
      type: NoiseMesh
      planet: titan
-     seed: 34
+     seed: 69
      color1: f5e4c6
      color2: ab823a
      divions: 3
