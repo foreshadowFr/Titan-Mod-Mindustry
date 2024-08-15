@@ -1,0 +1,58 @@
+(some borrowed hjson code)
+  
+  type: "PowerTurret",
+   localizedName: "shadow",
+   size: 2,
+   health: 250,
+   reload: 200,
+   range: 260,
+   inaccuracy: 0,
+   shoot:{
+    shots: 1 }
+   recoilTime: 20,
+   consumes: {
+   power: 1.5,
+      coolant: {
+amount: 0.6
+  }
+   },
+   targetAir : true, 
+   targetGround : true,
+   shootCone : 1,
+   recoil : 4,
+   rotateSpeed: 4,
+   shootSound : "laser",
+
+   hasPower : true,
+   shootType : {
+   type : "RailBulletType",
+   lifetime : 120,
+   damage: 125,
+   width: 12,
+   pointEffect:{
+    type: "ParticleEffect",
+    line: true,
+    length: -0.001,
+    lenFrom: 21,
+    lenTo: 1,
+    strokeFrom: 2,
+    strokeTo: 0,
+    colorFrom: 6f58d6
+    colorTo: ffffffff
+}
+pointEffectSpace: 0,
+length: 300,
+frontColor: 6f58d6,
+backColor : 301d85,
+      buildingDamageMultiplier: 0.75
+   }
+
+   requirements: [
+   copper/250,
+   lead/120
+   silicon/50
+   graphite/125
+   ],
+   category: "turret",
+   research: "arc"
+} 
