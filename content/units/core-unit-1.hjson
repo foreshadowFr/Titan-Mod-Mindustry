@@ -45,9 +45,7 @@ recoil: 3
       height: 20
       despawnHit: true
       despawnEffect: none
-     
+            }
         }
       ]
-    }
-}
- ] 
+ 
