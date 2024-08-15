@@ -39,7 +39,7 @@ hiddenItems: [
         "tungsten",
         "carbide",
         "dormant-cyst"
-        "cryofluid"
+        "cryo-fluid"
 ]
 cloudMesh: {
 type: HexSkyMesh
