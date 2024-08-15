@@ -18,7 +18,7 @@ type: "GenericCrafter"
        "color": "ff8400"
      },
   ],
-  "hasPower": true
+  "hasPower": false
   //effet qui se joue à moments aléatoires ou non, comme les effets de minage pour les foreuses 
   "updateEffect": "none"
   "consumes": {
