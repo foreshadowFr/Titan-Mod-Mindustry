@@ -5,7 +5,7 @@
 	"absorbLasers": true,
 	"itemCapacity": 2000,
 	"unitCapModifier": 10,
-    "unitType": "coreflare",
+    "unitType": "core-unit-1",
 requirements: [
   iron-plate/1000
   polished-ice/600
