@@ -4,8 +4,8 @@ iconColor: 7d5d11
 orbitRadius: 70
 hasAtmosphere: true
 updateLighting: false
-atmosphereRadIn: 0.01
-atmosphereRadOut: 0.7
+atmosphereRadIn: 0.1
+atmosphereRadOut: 0.5
 atmosphereColor: e3be68
 drawOrbit: true
 accessible: true
@@ -13,11 +13,11 @@ alwaysUnlocked: true
 defaultCore: "core-1"
 sectorSeed: 34
 startSector: 3
-sectorSize: 1
+sectorSize: 3
 clearSectorOnLose: false
 allowSectorInvasion: true
 allowLaunchtoNumbered: true
-radius: 1
+radius: 3
 hiddenItems: [
  "copper",
         "lead",
@@ -45,7 +45,7 @@ type: HexSkyMesh
 planet: titan
 seed: 4
 speed: 1
-radius: 0.5
+radius: 1
 divisions: 3
 color: d9d480
 octave: 2
@@ -60,7 +60,7 @@ persistance: 5
      color1: f5e4c6
      color2: ab823a
      divions: 3
-     radius: 1
+     radius: 3
      octaves: 8
      persistance: 1
      scale: 2
