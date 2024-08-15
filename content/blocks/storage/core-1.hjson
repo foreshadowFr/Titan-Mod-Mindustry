@@ -15,7 +15,7 @@ requirements: [
     root: true
     name: titan
     requiresUnlock: false
-    planet: titan
+    planet: Titan-Mod-Mindustry-titan
     }
     alwaysUnlocked: true
 }
