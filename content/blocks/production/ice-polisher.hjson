@@ -14,8 +14,7 @@ craftTime: 150
 ]
 }
 "requirements": [
-    yttrium/25
-    arcanite/15
+    iron-plate/4
   ],
   "category": "crafting",
   "outputItem": "polished-ice/1"
