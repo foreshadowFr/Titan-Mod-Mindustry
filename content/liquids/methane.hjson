@@ -1,9 +1,9 @@
 description: "Un hydrocarbure simple"
+name: "Methane"
 gas: "false"
 color: 013c52
 heatCapacity: 1
 type: liquid
 research: {
-name: "Methane"
 parent: "ammoniac"
 }
