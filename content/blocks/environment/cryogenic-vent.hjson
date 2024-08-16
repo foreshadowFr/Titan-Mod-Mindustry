@@ -1,0 +1,9 @@
+name: Cryogenic Vent 
+ type: SteamVent 
+ blendGroup: "ice" 
+ parent: "ice" 
+ effect: ventSteam 
+ effectColor: #d9e8ff
+ attributes: { 
+    steam: 1 
+ }
