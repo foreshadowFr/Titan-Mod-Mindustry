@@ -1,21 +1,26 @@
 type: "GenericCrafter"
 health: "150"
 size: 2
-name: "Limeur de glace"
-description: "lime de la glace"
+name: "Iron Combustion Press"
+description: "Press the iron to make iron bar"
 "hasItems": true
-"craftTime": 150
+"craftTime": 90
   "craftEffect": "none"
   "hasPower": false
   updateEffect: "none"
   "consumes": {
 "items": [
-"water-ice/2"
+"iron-plate/2"
+]
+"liquids":[
+"ammoniac/2"
+
 ]
 }
 "requirements": [
-    iron-plate/5
+    iron-plate/10
+    polished-ice/5
   ],
   "category": "crafting",
-  "outputItem": "polished-ice/1"
+  "outputItem": "iron-bar"
 research: "iron-smelter"
