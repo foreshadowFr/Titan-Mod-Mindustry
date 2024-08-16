@@ -1,4 +1,5 @@
 type: Conveyor
+name: basic conveyor
 hasShadow: true
 health: 50
 speed: 0.04
