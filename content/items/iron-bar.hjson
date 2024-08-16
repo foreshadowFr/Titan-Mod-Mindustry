@@ -1,6 +1,6 @@
 type: "item"
-name: "Iron Plate"
-description: ""
+name: "Iron bar"
+description: "A iron bar"
 details: ""
 "cost": 3
 "color": "d9d9d9"
