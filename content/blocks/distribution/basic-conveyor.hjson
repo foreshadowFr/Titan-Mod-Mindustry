@@ -13,5 +13,5 @@ requirements: [
   parent: "core-1"
   }
 researchCost: [
-  water-ice/20
+  iron-plates/20
 ]
