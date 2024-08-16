@@ -1,4 +1,4 @@
-name: Barite Vent
+name: Cryogenic Vent
 type: SteamVent
 blendGroup: ice
 parent: ice
