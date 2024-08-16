@@ -38,7 +38,7 @@ requirements: [
 category: production
 research: combustion-drill
 researchCost: [
-iron/20
-water-ice/30
+iron/15
+water-ice/20
 ]
 
