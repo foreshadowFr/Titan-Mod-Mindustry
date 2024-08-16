@@ -10,7 +10,9 @@ craftEffect: steam
 hasLiquids: true
 liquidCapacity: 50
     size: 3
-"drawer": [
+"drawer":  {
+type: DrawMulti
+drawers: [
     {
       "type": "DrawLiquidTile",
       "drawLiquid": "ammoniac",
@@ -21,7 +23,11 @@ liquidCapacity: 50
       "type": "DrawRegion",
       "suffix": "-bottom"
     }
-  ],
+    {
+    type: DrawDefault
+    }
+  ]
+},
 attribute: cryogenic-vent
 
 hasPower: false
