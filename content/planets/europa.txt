@@ -1,0 +1,11 @@
+{
+  "name": "myPlanet",
+    parent: titan
+  "radius": 1000,
+  "sectors": 8000,
+  "atmosphere": {
+    "color": "cyan",
+    "size": 5.0
+  }
+}
+//planète fait par chatGPT
