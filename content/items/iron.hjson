@@ -7,7 +7,7 @@ explosiveness: 0
 flammability: 0
 radioactivity: 0  
   //la flammability doit être au moins de 0.3 pour être utilisée dans les BurnerGenerator
-"research": "core-shard"
+"research": "core-1"
   hiddenOnPlanets: [
   "erekir"
   ]
