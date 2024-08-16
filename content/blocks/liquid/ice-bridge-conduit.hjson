@@ -1,5 +1,5 @@
 type: LiquidBridge
-name: Ice liquid bridge
+name: Ice bridge conduit
 description: "A liquid bridge made of ice"
 health: 50
 liquidCapacity: 8
