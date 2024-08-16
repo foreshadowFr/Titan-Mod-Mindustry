@@ -1,5 +1,5 @@
-name: Vent Bore
-description: Drills into vents, drawing out Cerilonyte.
+name: "Récolteur d'ammoniac"
+description: "récupère l'ammoniac liquide émis par les geysers"
 type: AttributeCrafter
 attribute: steam
 minEfficiency: 1
@@ -10,13 +10,17 @@ craftEffect: steam
 hasLiquids: true
 liquidCapacity: 50
     size: 3
-drawer: [
-{
-      type: DrawLiquidTile
-      drawLiquid: ice 
-      padding: 1.6
-}
-]
+"drawer": [
+    {
+      "type": "DrawLiquidTile",
+      "drawLiquid": "steam",
+      "padding": 1.3
+    },
+    {
+      "type": "DrawRegion",
+      "suffix": ""
+    }
+  ],
 hasPower: false
 outputLiquid: {
     liquid: ammoniac 
