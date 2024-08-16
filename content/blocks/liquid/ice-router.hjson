@@ -1,0 +1,17 @@
+type: LiquidRouter
+name: "ice router"
+description: "A router made of ice."
+health: 50
+liquidCapacity: 8
+category: liquid
+placeableLiquid: true
+hasPower: false
+requirements: [
+polished-ice/2
+]
+research: {
+parent: ice-conduit
+}
+researchCost: [
+polished-ice/100
+]
