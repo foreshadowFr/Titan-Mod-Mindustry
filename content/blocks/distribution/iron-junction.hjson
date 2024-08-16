@@ -8,5 +8,5 @@ requirements: [
   category: distribution
   research: iron-router
   researchCost: [
-  iron-plate: 30
+  iron-plate/30
   ]
