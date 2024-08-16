@@ -13,11 +13,11 @@ alwaysUnlocked: true
 defaultCore: "core-1"
 sectorSeed: 69
 startSector: 3
-sectorSize: 5
+sectorSize: 2
 clearSectorOnLose: false
 allowSectorInvasion: true
 allowLaunchtoNumbered: true
-radius: 5
+radius: 3
 hiddenItems: [
  "copper",
         "lead",
@@ -46,11 +46,11 @@ planet: titan
 seed: 4
 speed: 1
 radius: 0.3
-divisions: 3
+divisions: 4
 color: d9d480
 octave: 2
 persistance: 5
-  scl: 2
+  scl: 1
   thresh: 0.45
 }
    mesh: {
@@ -60,7 +60,7 @@ persistance: 5
      color1: f5e4c6
      color2: ab823a
      divions: 3
-     radius: 3
+     radius: 2
      octaves: 8
      persistance: 1
      scale: 2
