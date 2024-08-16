@@ -18,9 +18,16 @@ liquidCapacity: 50
     },
     {
       "type": "DrawRegion",
-      "suffix": "cryogenic-vent"
+      "suffix": ""
+    }
+      {
+      type: DrawLiquidTile
+      drawLiquid: cryogenic-vent
+      padding: 3
+      alpha: 0.75
     }
   ],
+
 hasPower: false
 outputLiquid: {
     liquid: ammoniac 
