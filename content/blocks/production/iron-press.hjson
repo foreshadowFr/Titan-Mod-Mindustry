@@ -22,5 +22,5 @@ description: "Press the iron to make iron bar"
     polished-ice/5
   ],
   "category": "crafting",
-  "outputItem": "iron-bar"
+  "outputItem": "iron-bar/1"
 research: "iron-smelter"
