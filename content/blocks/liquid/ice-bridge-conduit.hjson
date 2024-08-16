@@ -1,0 +1,17 @@
+type: LiquidBridge
+name: Ice liquid bridge
+description: "A liquid bridge made of ice"
+health: 50
+liquidCapacity: 8
+category: liquid
+hasPower: false
+range: 3
+requirements: [
+  polished-ice/10
+]
+  research: {
+  parent: ice-liquid-junction
+  }
+researchCost: [
+  polished-ice/100
+]
