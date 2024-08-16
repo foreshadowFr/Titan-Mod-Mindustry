@@ -1,11 +1,11 @@
 name: "Récolteur d'ammoniac"
 description: "récupère l'ammoniac liquide émis par les geysers"
 type: AttributeCrafter
-attribute: cryogenic-vent
+attribute: "cryogenic-vent"
 minEfficiency: 1
 squareSprite": false
 baseEfficiency: 0
-displayEfficiency: false
+displayEfficiencyScale: 1
 craftEffect: steam
 hasLiquids: true
 liquidCapacity: 50
