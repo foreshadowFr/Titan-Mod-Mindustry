@@ -1,0 +1,21 @@
+type: "GenericCrafter"
+health: "150"
+size: 2
+name: "Limeur de glace"
+description: "lime de la glace"
+"hasItems": true
+"craftTime": 150
+  "craftEffect": "none"
+  "hasPower": false
+  updateEffect: "none"
+  "consumes": {
+"items": [
+"water-ice/2"
+]
+}
+"requirements": [
+    iron-plate/5
+  ],
+  "category": "crafting",
+  "outputItem": "polished-ice/1"
+research: "iron-smelter"
