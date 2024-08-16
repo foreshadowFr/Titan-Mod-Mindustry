@@ -5,5 +5,5 @@ parent: ice
 effect: ventSteam
 effectColor: dad2ca
 attributes: {
-   ammoniac: 1
+   ammoniac: 0.2
 }
