@@ -1,4 +1,6 @@
 type: LiquidJunction
+name: "Ice junction"
+description: "A junction made of ice"
 health: 50
 category: liquid
 hasPower: false
