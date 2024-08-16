@@ -5,7 +5,8 @@ description: "test"
 hardness: 1  
 explosiveness: 0
 flammability: 0
-radioactivity: 0  
+radioactivity: 0 
+"color": "#c7b18f"
   //la flammability doit être au moins de 0.3 pour être utilisée dans les BurnerGenerator
 "research": "core-1"
   hiddenOnPlanets: [
