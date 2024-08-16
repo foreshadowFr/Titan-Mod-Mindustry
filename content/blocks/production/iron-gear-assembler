@@ -18,8 +18,9 @@ description: "Make Iron Gear with Iron Plate"
 ]
 }
 "requirements": [
-    iron-plate/10
-    polished-ice/5
+    iron-plate/20
+    iron-bar/5
+    polished-ice/15
   ],
   "category": "crafting",
   "outputItem": "iron-gear/2"
