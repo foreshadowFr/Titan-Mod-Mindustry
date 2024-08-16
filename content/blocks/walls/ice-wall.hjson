@@ -1,1 +1,13 @@
-
+type: "Wall"
+health: 300
+size: 1
+category: defense
+requirements: [
+polished-ice/6
+]
+research: {
+parent: "core-1"
+}
+researchCost: [
+polished-ice/30
+]
