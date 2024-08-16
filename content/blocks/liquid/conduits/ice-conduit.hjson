@@ -12,7 +12,7 @@ liquidPressure: 1
 botColor: 4a4b53
 category: liquid
 junctionReplacement: ice-liquid-junction
-bridgeReplacement: ice-liquid-bridge
+bridgeReplacement: ice-bridge-conduit
 research: {
   parent: ammoniac-harvester
 }
