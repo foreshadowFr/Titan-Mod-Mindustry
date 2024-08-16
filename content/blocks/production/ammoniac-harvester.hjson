@@ -1,7 +1,7 @@
 name: "Récolteur d'ammoniac"
 description: "récupère l'ammoniac liquide émis par les geysers"
 type: AttributeCrafter
-attribute: steam
+attribute: ammoniac
 minEfficiency: 1
 squareSprite": false
 baseEfficiency: 0
@@ -30,4 +30,8 @@ requirements: [
     ]
 category: production
 research: combustion-drill
+researchCost: [
+iron/20
+water-ice/30
+]
 
