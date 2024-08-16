@@ -1,0 +1,17 @@
+type: Conveyor
+hasShadow: true
+health: 50
+speed: 0.04
+displaySpeed: 7
+junctionReplacement: basic-junction
+bridgeReplacement: basic-bridge
+requirements: [
+  water-ice/2
+]
+  category: distribution
+  research: {
+  parent: "core-1"
+  }
+researchCost: [
+  water-ice/20
+]
