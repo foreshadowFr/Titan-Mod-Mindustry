@@ -22,9 +22,8 @@ liquidCapacity: 50
       "suffix": "-bottom"
     }
   ],
-attribute: {
-   cryogenic-vent: 1
-}
+attribute: cryogenic-vent/1
+
 hasPower: false
 outputLiquid: ammoniac/0.2
 requirements: [
