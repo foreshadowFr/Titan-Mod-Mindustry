@@ -28,7 +28,7 @@ drawers: [
     }
   ]
 },
-attribute: cryogenic-vent
+attributes: {cryogenic-vent: 1}
 
 hasPower: false
 outputLiquid: ammoniac/0.2
