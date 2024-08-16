@@ -1,0 +1,13 @@
+type: LiquidJunction
+health: 50
+category: liquid
+hasPower: false
+requirements: [
+  polished-ice/10
+]
+  research: {
+  parent: "ice-liquid-router"
+  }
+researchCost: [
+  polished-ice/75
+]
