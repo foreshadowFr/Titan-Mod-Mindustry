@@ -1,0 +1,33 @@
+name: Vent Bore
+description: Drills into vents, drawing out Cerilonyte.
+type: AttributeCrafter
+attribute: steam
+minEfficiency: 1
+squareSprite": false
+baseEfficiency: 0
+displayEfficiency: false
+craftEffect: steam
+hasLiquids: true
+liquidCapacity: 50
+    size: 3
+drawer: [
+{
+      type: DrawLiquidTile
+      drawLiquid: ice 
+      padding: 1.6
+}
+{
+      type: DrawRegion
+      suffix:
+}
+]
+hasPower: false
+outputLiquid: {
+    liquid: ammoniac 
+    amount: 0.2
+  }
+requirements: [
+  iron/25
+    ]
+category: production
+research: combustion-drill
