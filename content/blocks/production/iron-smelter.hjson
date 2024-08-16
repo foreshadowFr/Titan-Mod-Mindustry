@@ -73,4 +73,6 @@ type: "GenericCrafter"
    "category": "crafting"
    "outputItem": "iron-plate/1"
 "research": "combustion-drill"
-
+researchCost: [
+iron/30
+]
