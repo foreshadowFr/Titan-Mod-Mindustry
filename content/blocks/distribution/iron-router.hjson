@@ -1,0 +1,16 @@
+type: "router"
+name: "router"
+description: "has an input and three outputs"
+details: "praise the ROUTER"
+hasItems: true
+itemCapacity: 3
+requirements: [
+  iron-plate/2
+]
+  category: distribution
+  research: {
+  parent: basic-conveyor
+  }
+researchCost: [
+  iron-plate/30
+]
