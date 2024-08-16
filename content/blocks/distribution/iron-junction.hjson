@@ -1,0 +1,12 @@
+type: Junction
+health: 80
+speed: 10
+capacity: 6
+requirements: [
+  iron-plate/2
+]
+  category: distribution
+  research: iron-router
+  researchCost: [
+  iron-plate: 30
+  ]
