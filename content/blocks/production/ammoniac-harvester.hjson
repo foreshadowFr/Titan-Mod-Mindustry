@@ -16,10 +16,6 @@ drawer: [
       drawLiquid: ice 
       padding: 1.6
 }
-{
-      type: DrawRegion
-      suffix:
-}
 ]
 hasPower: false
 outputLiquid: {
