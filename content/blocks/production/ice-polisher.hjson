@@ -19,3 +19,7 @@ description: "lime de la glace"
   "category": "crafting",
   "outputItem": "polished-ice/1"
 research: "iron-smelter"
+]
+researchCost: [
+iron-plate/15
+]
