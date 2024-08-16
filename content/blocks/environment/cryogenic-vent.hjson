@@ -1,7 +1,7 @@
 name: Barite Vent
 type: SteamVent
 blendGroup: ice
-parent: ice-floor
+parent: ice
 effect: ventSteam
 effectColor: dad2ca
 attributes: {
