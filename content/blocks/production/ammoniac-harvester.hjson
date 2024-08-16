@@ -14,25 +14,17 @@ liquidCapacity: 50
     {
       "type": "DrawLiquidTile",
       "drawLiquid": "ammoniac",
-      "padding": 1.3
+      "padding": 3
+       alpha: 0.75
     },
     {
       "type": "DrawRegion",
-      "suffix": ""
-    }
-      {
-      type: DrawLiquidTile
-      drawLiquid: cryogenic-vent
-      padding: 3
-      alpha: 0.75
+      "suffix": "-bottom"
     }
   ],
 
 hasPower: false
-outputLiquid: {
-    liquid: ammoniac 
-    amount: 0.2
-  }
+outputLiquid: ammoniac/0.2
 requirements: [
   iron/25
     ]
