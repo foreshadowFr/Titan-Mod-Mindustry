@@ -4,6 +4,6 @@ name: "Cryogenic Vent"
  parent: "ice" 
  effect: ventSteam 
  effectColor: #d9e8ff
- attributes: { 
-    heat: 0.5
-}
+ attributes: [
+    heat/0.5
+]
