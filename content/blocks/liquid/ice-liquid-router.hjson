@@ -1,6 +1,6 @@
 type: LiquidRouter
-name: "ice router"
-description: "A router made of ice."
+name: "ice liquid router"
+description: "A router for liquids made of ice."
 health: 50
 liquidCapacity: 8
 category: liquid
