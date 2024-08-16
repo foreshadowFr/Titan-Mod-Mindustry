@@ -18,7 +18,7 @@ liquidCapacity: 50
     },
     {
       "type": "DrawRegion",
-      "suffix": ""
+      "suffix": "cryogenic-vent"
     }
   ],
 hasPower: false
