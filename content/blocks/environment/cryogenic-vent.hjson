@@ -1,0 +1,9 @@
+name: Barite Vent
+type: SteamVent
+blendGroup: ice-floor
+parent: ice-floor
+effect: ventSteam
+effectColor: dad2ca
+attributes: {
+   ammoniac: 1
+}
