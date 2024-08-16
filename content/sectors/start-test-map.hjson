@@ -1,1 +1,8 @@
-
+planet: titan
+sector: 3
+research: {
+parent: "core-1"
+}
+difficulty: 1
+alwaysUnlocked: true
+overrideLaunchDefaults: true
