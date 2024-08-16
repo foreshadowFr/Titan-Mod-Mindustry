@@ -17,5 +17,5 @@ research: {
   parent: ammoniac-harvester
 }
 researchCost: [
-  water-ice: 20
+  water-ice/20
 ]
