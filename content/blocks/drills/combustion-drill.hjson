@@ -25,5 +25,5 @@ research: {
     parent: "core-1",
       }
   researchCost: [
-    iron/50
+    iron/20
       ]
