@@ -1,0 +1,15 @@
+type: ItemBridge
+name: Yttrium bridge"
+description: "a bridge conveyor used to transport item above blocks"
+health: 80
+range: 3
+transportTime: 6
+hasPower: false
+requirements: [
+  iron-plate/4
+]
+  category: distribution
+  research: iron-junction
+  researchCost: [
+  iron-plate/50
+  ]
