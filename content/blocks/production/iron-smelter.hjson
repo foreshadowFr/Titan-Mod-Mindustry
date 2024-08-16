@@ -4,8 +4,10 @@ type: "GenericCrafter"
 "name" : "Iron Combustion Smelter"
 "hasItem": true
 //crafttime en tick pas en seconde
-"craftTime": 60
-"type": "DrawMulti",
+"craftTime": 60,
+  "craftEffect": "none",
+	"drawer": {
+	"type": "DrawMulti",
         "drawers": [
         {
         "type": "DrawDefault"
