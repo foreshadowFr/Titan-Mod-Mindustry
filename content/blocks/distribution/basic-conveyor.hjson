@@ -6,12 +6,12 @@ displaySpeed: 7
 junctionReplacement: basic-junction
 bridgeReplacement: basic-bridge
 requirements: [
-  water-ice/2
+ iron-plate/1
 ]
   category: distribution
   research: {
   parent: "core-1"
   }
 researchCost: [
-  iron-plates/20
+  iron-plate/20
 ]
