@@ -1,11 +1,11 @@
 generator: "PlanetGenerator"
 parent: "sun"
 iconColor: 7d5d11
-orbitRadius: 70
+orbitRadius: 75
 hasAtmosphere: true
 updateLighting: false
-atmosphereRadIn: 0.1
-atmosphereRadOut: 0.5
+atmosphereRadIn: 0.05
+atmosphereRadOut: 0.4
 atmosphereColor: e3be68
 drawOrbit: true
 accessible: true
@@ -13,11 +13,11 @@ alwaysUnlocked: true
 defaultCore: "core-1"
 sectorSeed: 69
 startSector: 3
-sectorSize: 0.5
+sectorSize: 5
 clearSectorOnLose: false
 allowSectorInvasion: true
 allowLaunchtoNumbered: true
-radius: 3
+radius: 5
 hiddenItems: [
  "copper",
         "lead",
@@ -45,7 +45,7 @@ type: HexSkyMesh
 planet: titan
 seed: 4
 speed: 1
-radius: 1
+radius: 0.3
 divisions: 3
 color: d9d480
 octave: 2
