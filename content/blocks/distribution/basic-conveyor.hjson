@@ -3,7 +3,7 @@ hasShadow: true
 health: 50
 speed: 0.04
 displaySpeed: 7
-junctionReplacement: basic-junction
+junctionReplacement: junction
 bridgeReplacement: basic-bridge
 requirements: [
  iron-plate/1
