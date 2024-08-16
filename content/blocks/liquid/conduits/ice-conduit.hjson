@@ -1,5 +1,7 @@
 type: Conduit
 leaks: true
+name: "ice conduit"
+description: "weak conduit made of raw ice"
 health: 15
 hasPower: false
 requirements: [
