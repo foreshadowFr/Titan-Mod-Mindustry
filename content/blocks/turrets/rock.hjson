@@ -1,0 +1,38 @@
+type: ItemTurret
+name: "rock"
+description: "Basic Turret"
+size: 1
+  shootSound: shoot
+
+  coolant: {
+  allowGas: false
+  allowLiquid: true
+  amount: 0.1
+  }
+shoot: {
+  shots: 1
+  shotDelay: 0.78
+}
+ammoTypes: {
+  water-ice:{
+    type: BasicBulletType
+    width: 5
+    height: 9
+    speed: 4
+    lifetime: 50
+    splashDamage: 10
+    splashDamageRadius: 3
+  }
+}
+drawer: {
+  type: DrawTurret
+  basePrefix: spiky-
+}
+research: {
+  parent: core-1
+}
+researchCost: [
+  iron-plate/40
+  polished-ice/15
+]
+category: turret
