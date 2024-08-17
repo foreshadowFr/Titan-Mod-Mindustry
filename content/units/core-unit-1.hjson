@@ -2,12 +2,12 @@
    description: "nope"
     "type": "flying",
     "lowAltitude": true,
-    "speed": 1,
+    "speed": 2,
     "accel": 0.1,
     "drag": 0.1,
     "flying": true,
     "health": 100,
-    "hitSize": 10,
+    "hitSize": 8,
     "armor": 1,
     "itemCapacity": 20,
   "outlineColor": "36363c",
@@ -15,7 +15,7 @@
     "faceTarget": true,
     controller: BuilderAI
     mineTier: 1
-    mineSpeed: 2
+    mineSpeed: 4
     buildSpeed: 0.8
     buildBeamOffset: 7
     isEnemy: false
