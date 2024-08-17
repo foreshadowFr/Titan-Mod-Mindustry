@@ -1,0 +1,29 @@
+type: "GenericCrafter"
+health: "150"
+size: 3
+name: "Iron Engine Manufacturer"
+description: "Make Iron Engine"
+"hasItems": true
+"craftTime": 120
+  "craftEffect": "none"
+  "hasPower": false
+  updateEffect: "none"
+  "consumes": {
+"items": [
+"iron-plate/12"
+"iron-gear/5"
+"iron-bar/7"
+]
+"liquids":[
+"ammoniac/10"
+
+]
+}
+"requirements": [
+    iron-plate/50
+    iron-bar/20
+    polished-ice/40
+  ],
+  "category": "crafting",
+  "outputItem": "iron-engine/1"
+research: "iron-smelter"
