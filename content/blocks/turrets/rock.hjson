@@ -20,7 +20,7 @@ ammoTypes: {
 }
 drawer: {
   type: DrawTurret
-  basePrefix: spiky-
+  basePrefix: top-
 }
 research: {
   parent: core-1
