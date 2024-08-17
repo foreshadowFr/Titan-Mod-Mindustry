@@ -3,8 +3,6 @@ name: "rock"
 description: "Basic Turret"
 size: 1
   shootSound: shoot
-
-  
 shoot: {
   shots: 1
   shotDelay: 0.78
