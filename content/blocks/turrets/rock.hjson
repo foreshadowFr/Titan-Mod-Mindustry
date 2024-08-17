@@ -4,11 +4,7 @@ description: "Basic Turret"
 size: 1
   shootSound: shoot
 
-  coolant: {
-  allowGas: false
-  allowLiquid: true
-  amount: 0.1
-  }
+  
 shoot: {
   shots: 1
   shotDelay: 0.78
