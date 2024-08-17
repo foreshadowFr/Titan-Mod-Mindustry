@@ -6,7 +6,7 @@ requirements: [
 polished-ice/6
 ]
 research: {
-parent: "core-1"
+parent: "rock"
 }
 researchCost: [
 polished-ice/30
