@@ -22,6 +22,7 @@ drawer: {
   type: DrawTurret
   basePrefix: top-
 }
+category: turret
 research: {
   parent: core-1
 }
@@ -29,4 +30,4 @@ researchCost: [
   iron-plate/40
   polished-ice/15
 ]
-category: turret
+
