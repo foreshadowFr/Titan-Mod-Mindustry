@@ -1,0 +1,28 @@
+type: "GenericCrafter"
+health: "150"
+size: 2
+name: "Conical Ice Wheel Fabricator"
+description: ""
+"hasItems": true
+"craftTime": 90
+  "craftEffect": "none"
+  "hasPower": false
+  updateEffect: "none"
+  "consumes": {
+"items": [
+"iron-bar/1"
+"polished-ice/4"
+]
+"liquids":[
+"ammoniac/3"
+
+]
+}
+"requirements": [
+    iron-plate/20
+    iron-bar/5
+    polished-ice/15
+  ],
+  "category": "crafting",
+  "outputItem": "conical-ice-wheel/1"
+research: "iron-smelter"
