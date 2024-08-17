@@ -1,0 +1,11 @@
+type: "item"
+name: "Conical Ice Wheel"
+description: ""
+details: ""
+"cost": 3
+"color": "d9d9d9"
+ "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: "iron"
