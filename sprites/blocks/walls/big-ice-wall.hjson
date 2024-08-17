@@ -1,0 +1,14 @@
+type: Wall
+name: "Ice wall"
+health: 1200
+size: 2
+category: defense
+requirements: [
+  polished-ice/24
+]
+  research: {
+  parent: ice-wall
+  }
+  researchCost: [
+    polished-ice/100
+  ]
