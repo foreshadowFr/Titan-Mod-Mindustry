@@ -16,7 +16,7 @@ weapons: [
   name: "test"
   reload: 10
   //nombre de balles par tir
-  shots: 1
+  shots: 10
   shootSound: shoot
   bullet: {
   type: bullet
