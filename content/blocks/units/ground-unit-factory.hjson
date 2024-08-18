@@ -6,12 +6,14 @@ consumes: {
   power: 1
 }
 plans: [
+{
   unit: test-ground
   time: 2000
   requirements: [
   iron-engine/5
   iron-plate/30
   ]
+}
 ]
   requirements: [
   polished-ice/50
