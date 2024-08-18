@@ -29,4 +29,11 @@ description: "Makes Iron Engine"
   ],
   "category": "crafting",
   "outputItem": "iron-engine/1"
-research: "iron-smelter"
+research: {
+parent: "iron-smelter"
+}
+researchCost: [
+iron-plate/50
+    iron-bar/20
+    polished-ice/40
+]
