@@ -5,7 +5,7 @@ size: 1
 range: 150
   shootSound: shoot
 shoot: {
-  shots: 1
+  shots: 2
   shotDelay: 0.78
 }
 ammoTypes: {
@@ -15,6 +15,7 @@ ammoTypes: {
     height: 9
     speed: 4
     lifetime: 50
+    damage: 10
     splashDamage: 10
     splashDamageRadius: 3
   }
