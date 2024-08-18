@@ -1,0 +1,29 @@
+type: "GenericCrafter"
+health: "150"
+size: 2
+name: "Simple Tricone Maker"
+description: ""
+"hasItems": true
+"craftTime": 90
+  "craftEffect": "none"
+  "hasPower": false
+  updateEffect: "none"
+  "consumes": {
+"items": [
+"iron-bar/1"
+"iron-plate/3"
+"conical-ice-wheel/3"
+]
+"liquids":[
+"ammoniac/5"
+
+]
+}
+"requirements": [
+    iron-plate/10
+    iron-bar/5
+    polished-ice/10
+  ],
+  "category": "crafting",
+  "outputItem": "simple-tricone/1"
+research: "iron-smelter"
