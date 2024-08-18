@@ -4,8 +4,8 @@ iconColor: 7d5d11
 orbitRadius: 75
 hasAtmosphere: true
 updateLighting: false
-atmosphereRadIn: 0.05
-atmosphereRadOut: 0.4
+atmosphereRadIn: 0.01
+atmosphereRadOut: 0.35
 atmosphereColor: e3be68
 drawOrbit: true
 accessible: true
@@ -45,7 +45,7 @@ type: HexSkyMesh
 planet: titan
 seed: 4
 speed: 1
-radius: 0.3
+radius: 0.2
 divisions: 4
 color: d9d480
 octave: 2
@@ -59,8 +59,8 @@ persistance: 5
      seed: 69
      color1: f5e4c6
      color2: ab823a
-     divions: 3
-     radius: 2
+     divions: 6
+     radius: 0.5
      octaves: 8
      persistance: 1
      scale: 2
