@@ -13,6 +13,7 @@ description: "Make Iron Engine"
 "iron-plate/12"
 "iron-gear/5"
 "iron-bar/7"
+"conical-ice-wheel/2"
 ]
 "liquids":[
 "ammoniac/10"
