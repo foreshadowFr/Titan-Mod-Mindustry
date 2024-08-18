@@ -5,6 +5,7 @@ name: "Iron Engine Manufacturer"
 description: "Make Iron Engine"
 "hasItems": true
 "itemCapacity": 30
+"liquidCapacity": 20
 "craftTime": 120
   "craftEffect": "none"
   "hasPower": false
