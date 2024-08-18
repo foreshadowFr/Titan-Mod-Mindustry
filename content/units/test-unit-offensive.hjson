@@ -1,10 +1,13 @@
+type: mech
 name: "test-ground"
 description: "test"
 speed: 0.5
 health: 100
 armor: 0
 faceTarget: true
-rotateSpeed: 10
+rotateSpeed: 5
+hovering: false
+allowLegStep: true
 //si l'unité terrestre peut voler ou pas, comme le Nova
 canBoost: false  
 canDrown: true
