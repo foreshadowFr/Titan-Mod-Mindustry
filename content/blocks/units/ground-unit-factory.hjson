@@ -1,0 +1,26 @@
+type: UnitFactory
+name: "Ground Unit Factory"
+description: "makes ground units using ressources"
+size: 3
+consumes: {
+  power: 1
+}
+plans: [
+  unit: test-ground
+  time: 2000
+  requirements: [
+  iron-engine/5
+  iron-plate/30
+  ]
+]
+  requirements: [
+  polished-ice/50
+  iron-plate/100
+  ]
+  research: {
+  parent: core-1
+  }
+researchCost: [
+  polished-ice/500
+  iron-plate/1000
+]
