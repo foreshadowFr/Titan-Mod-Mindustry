@@ -2,6 +2,7 @@ type: ItemTurret
 name: "rock"
 description: "Basic Turret"
 size: 1
+range: 150
   shootSound: shoot
 shoot: {
   shots: 1
@@ -22,12 +23,14 @@ drawer: {
   type: DrawTurret
   basePrefix: top-
 }
+requirements: [
+iron-plate/20
+]
 category: turret
 research: {
   parent: core-1
 }
 researchCost: [
-  iron-plate/40
-  polished-ice/15
+  iron-plate/30
 ]
 
