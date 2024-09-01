@@ -42,7 +42,7 @@ hiddenItems: [
 ]
 cloudMesh: {
 type: HexSkyMesh
-planet: titan
+planet: saturn
 seed: 4
 speed: 1
 radius: 0.2
