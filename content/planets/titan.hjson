@@ -1,5 +1,5 @@
 generator: "PlanetGenerator"
-parent: "sun"
+parent: "saturn"
 iconColor: 7d5d11
 orbitRadius: 75
 hasAtmosphere: true
