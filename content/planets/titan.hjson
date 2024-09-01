@@ -57,8 +57,8 @@ persistance: 5
      type: NoiseMesh
      planet: titan
      seed: 69
-     color1: c2ab76
-     color2: a39064
+     color1: f5e4c6
+     color2: ab823a
      divions: 6
      radius: 0.5
      octaves: 8
