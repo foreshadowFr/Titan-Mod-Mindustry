@@ -55,7 +55,7 @@ persistance: 5
 }
    mesh: {
      type: NoiseMesh
-     planet: titan
+     planet: saturn
      seed: 69
      color1: c2ab76
      color2: a39064
