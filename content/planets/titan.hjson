@@ -1,7 +1,7 @@
 generator: "PlanetGenerator"
 parent: "saturn"
 iconColor: 7d5d11
-orbitRadius: 5
+orbitRadius: 20
 hasAtmosphere: true
 updateLighting: false
 atmosphereRadIn: 0.01
