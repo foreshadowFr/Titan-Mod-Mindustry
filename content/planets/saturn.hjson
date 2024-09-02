@@ -53,16 +53,17 @@ persistance: 5
   scl: 1
   thresh: 0.45
 }
-   mesh: {
-     type: NoiseMesh
-     planet: saturn
-     seed: 69
-     color1: c2ab76
-     color2: a39064
-     divions: 6
-     radius: 0.5
-     octaves: 8
-     persistance: 1
-     scale: 2
-     mag: 1
+    "mesh": {
+      "type": "NoiseMesh",
+      "planet": "Saturn",
+      "seed": 69,
+      "color1": "c2ab76",
+      "color2": "a39064",
+      "divisions": 4,
+      "radius": 0.8,
+      "octaves": 8,
+      "persistence": 1,
+      "scale": 2,
+      "mag": 1
+    }
    }
