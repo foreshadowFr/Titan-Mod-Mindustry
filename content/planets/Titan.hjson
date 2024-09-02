@@ -1,5 +1,5 @@
 generator: "PlanetGenerator"
-parent: "saturn"
+parent: "Saturn"
 iconColor: 7d5d11
 orbitRadius: 20
 hasAtmosphere: true
@@ -17,7 +17,7 @@ sectorSize: 2
 clearSectorOnLose: false
 allowSectorInvasion: true
 allowLaunchtoNumbered: true
-radius: 3
+radius: 1
 hiddenItems: [
  "copper",
         "lead",
@@ -42,7 +42,7 @@ hiddenItems: [
 ]
 cloudMesh: {
 type: HexSkyMesh
-planet: titan
+planet: Titan
 seed: 4
 speed: 1
 radius: 0.2
@@ -55,7 +55,7 @@ persistance: 5
 }
    mesh: {
      type: NoiseMesh
-     planet: titan
+     planet: Titan
      seed: 69
      color1: f5e4c6
      color2: ab823a
