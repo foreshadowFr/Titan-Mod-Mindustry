@@ -9,7 +9,7 @@ atmosphereRadOut: 0.3
 atmosphereColor: e3be68
 drawOrbit: true
 accessible: true
-alwaysUnlocked: true
+alwaysUnlocked: false
 defaultCore: "core-1"
 sectorSeed: 69
 startSector: 3
