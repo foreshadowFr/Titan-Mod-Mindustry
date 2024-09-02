@@ -4,8 +4,8 @@ iconColor: 7d5d11
 orbitRadius: 100
 hasAtmosphere: true
 updateLighting: false
-atmosphereRadIn: 0.01
-atmosphereRadOut: 0.35
+atmosphereRadIn: 0.1
+atmosphereRadOut: 0.7
 atmosphereColor: e3be68
 drawOrbit: true
 accessible: true
@@ -17,7 +17,7 @@ sectorSize: 2
 clearSectorOnLose: false
 allowSectorInvasion: true
 allowLaunchtoNumbered: true
-radius: 1
+radius: 10
 hiddenItems: [
  "copper",
         "lead",
