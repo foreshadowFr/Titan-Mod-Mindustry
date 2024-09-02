@@ -13,9 +13,9 @@ requirements: [
   "category": "effect",
    research: {
     root: true
-    name: titan
+    name: Titan
     requiresUnlock: false
-    planet: titan
+    planet: Titan
     }
     alwaysUnlocked: true
 }
