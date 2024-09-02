@@ -42,13 +42,12 @@ hiddenItems: [
 ]
 cloudMesh: {
 type: HexSkyMesh
-planet: saturn
+planet: Saturn
 seed: 4
 speed: 1
 radius: 0.05
 divisions: 4
-color1: c2ab76
-color2: a39064
+color: c2ab76
 octave: 2
 persistance: 1
 scl: 2
@@ -56,7 +55,7 @@ thresh: 1
 }
     "mesh": {
       "type": "NoiseMesh",
-      "planet": "saturn",
+      "planet": "Saturn",
       "seed": 69,
       "color1": "c2ab76",
       "color2": "a39064",
