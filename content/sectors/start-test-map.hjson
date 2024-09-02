@@ -1,4 +1,4 @@
-planet: titan
+planet: Titan
 sector: 3
 research: {
 parent: "core-1"
