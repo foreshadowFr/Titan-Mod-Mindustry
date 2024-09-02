@@ -47,7 +47,7 @@ seed: 4
 speed: 1
 radius: 0.5
 divisions: 4
-color: d9d480
+color: c2ab76
 octave: 2
 persistance: 1
 scl: 2
