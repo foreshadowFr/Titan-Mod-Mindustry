@@ -51,7 +51,7 @@ color: c2ab76
 octave: 2
 persistance: 1
 scl: 2
-thresh: 0.45
+thresh: 0
 }
     "mesh": {
       "type": "NoiseMesh",
