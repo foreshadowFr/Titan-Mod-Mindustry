@@ -65,5 +65,5 @@ thresh: 0.45
       "persistence": 1,
       "scale": 2,
       "mag": 1
-    }
+    
    }
