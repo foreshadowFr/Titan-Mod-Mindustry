@@ -45,13 +45,13 @@ type: HexSkyMesh
 planet: saturn
 seed: 4
 speed: 1
-radius: 0.2
-divisions: 4
+radius: 0.05
+divisions: 5
 color: d9d480
 octave: 2
-persistance: 5
-  scl: 1
-  thresh: 0.45
+persistance: 1
+scl: 2
+thresh: 0.45
 }
     "mesh": {
       "type": "NoiseMesh",
