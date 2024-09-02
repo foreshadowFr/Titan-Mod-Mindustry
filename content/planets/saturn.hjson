@@ -45,7 +45,7 @@ type: HexSkyMesh
 planet: saturn
 seed: 4
 speed: 1
-radius: 0.5
+radius: 0.05
 divisions: 4
 color: c2ab76
 octave: 2
