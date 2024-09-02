@@ -55,7 +55,7 @@ thresh: 0.45
 }
     "mesh": {
       "type": "NoiseMesh",
-      "planet": "Saturn",
+      "planet": "saturn",
       "seed": 69,
       "color1": "c2ab76",
       "color2": "a39064",
