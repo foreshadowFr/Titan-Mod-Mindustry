@@ -5,7 +5,7 @@ orbitRadius: 20
 hasAtmosphere: true
 updateLighting: false
 atmosphereRadIn: 0.01
-atmosphereRadOut: 0.35
+atmosphereRadOut: 0.25
 atmosphereColor: 53442D
 drawOrbit: true
 accessible: true
@@ -59,7 +59,7 @@ persistance: 5
      seed: 69
      color1: E0D269
      color2: 53442D
-     divions: 6
+     divions: 3
      radius: 0.5
      octaves: 8
      persistance: 1
