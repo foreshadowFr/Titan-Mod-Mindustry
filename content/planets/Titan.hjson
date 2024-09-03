@@ -13,7 +13,7 @@ alwaysUnlocked: true
 defaultCore: "core-1"
 sectorSeed: 69
 startSector: 3
-sectorSize: 3
+sectorSize: 2
 clearSectorOnLose: false
 allowSectorInvasion: true
 allowLaunchtoNumbered: true
@@ -63,7 +63,7 @@ persistance: 5
      radius: 0.5
      octaves: 8
      persistance: 1
-     scale: 0.5
+     scale: 1
      mag: 1
    }
 
