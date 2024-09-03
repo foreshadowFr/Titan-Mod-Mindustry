@@ -13,11 +13,11 @@ alwaysUnlocked: true
 defaultCore: "core-1"
 sectorSeed: 69
 startSector: 3
-sectorSize: 2
+sectorSize: 10
 clearSectorOnLose: false
 allowSectorInvasion: true
 allowLaunchtoNumbered: true
-radius: 10
+radius: 1
 hiddenItems: [
  "copper",
         "lead",
