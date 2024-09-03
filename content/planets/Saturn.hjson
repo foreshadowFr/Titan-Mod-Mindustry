@@ -4,8 +4,8 @@ iconColor: c2ab76
 orbitRadius: 100
 hasAtmosphere: true
 updateLighting: false
-atmosphereRadIn: 0.01
-atmosphereRadOut: 5
+atmosphereRadIn: 0.1
+atmosphereRadOut: 10
 atmosphereColor: e3be68
 drawOrbit: true
 accessible: false
