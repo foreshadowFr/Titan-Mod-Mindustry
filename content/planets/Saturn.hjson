@@ -4,7 +4,7 @@ iconColor: c2ab76
 orbitRadius: 100
 hasAtmosphere: true
 updateLighting: false
-atmosphereRadIn: 0.1
+atmosphereRadIn: 5
 atmosphereRadOut: 10
 atmosphereColor: e3be68
 drawOrbit: true
@@ -60,7 +60,7 @@ thresh: 1
       "color1": "c2ab76",
       "color2": "a39064",
       "divisions": 4,
-      "radius": 3,
+      "radius": 1,
       "octaves": 8,
       "persistence": 1,
       "scale": 2,
