@@ -1,12 +1,12 @@
 generator: "PlanetGenerator"
 parent: "Saturn"
-iconColor: f5e4c6
+iconColor: 53442D
 orbitRadius: 20
 hasAtmosphere: true
 updateLighting: false
 atmosphereRadIn: 0.01
 atmosphereRadOut: 0.35
-atmosphereColor: e3be68
+atmosphereColor: 53442D
 drawOrbit: true
 accessible: true
 alwaysUnlocked: true
@@ -17,7 +17,7 @@ sectorSize: 2
 clearSectorOnLose: false
 allowSectorInvasion: true
 allowLaunchtoNumbered: true
-radius: 1
+radius: 0.5
 hiddenItems: [
  "copper",
         "lead",
@@ -57,8 +57,8 @@ persistance: 5
      type: NoiseMesh
      planet: Titan
      seed: 69
-     color1: f5e4c6
-     color2: ab823a
+     color1: E0D269
+     color2: 53442D
      divions: 6
      radius: 0.5
      octaves: 8
