@@ -17,7 +17,7 @@ sectorSize: 4
 clearSectorOnLose: false
 allowSectorInvasion: true
 allowLaunchtoNumbered: true
-radius: 3
+radius: 2
 hiddenItems: [
  "copper",
         "lead",
