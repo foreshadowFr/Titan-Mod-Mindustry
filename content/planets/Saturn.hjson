@@ -1,6 +1,6 @@
 generator: "PlanetGenerator"
 parent: "sun"
-iconColor: 7d5d11
+iconColor: c2ab76
 orbitRadius: 100
 hasAtmosphere: true
 updateLighting: false
