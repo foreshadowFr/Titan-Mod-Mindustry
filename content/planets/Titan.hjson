@@ -60,7 +60,7 @@ persistance: 5
      color1: E0D269
      color2: 53442D
      divions: 6
-     radius: 1
+     radius: 0.5
      octaves: 8
      persistance: 1
      scale: 0.5
