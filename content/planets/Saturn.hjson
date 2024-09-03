@@ -46,7 +46,7 @@ planet: Saturn
 seed: 4
 speed: 1
 radius: 0.05
-divisions: 4
+divisions: 2
 color: c2ab76
 octave: 2
 persistance: 1
