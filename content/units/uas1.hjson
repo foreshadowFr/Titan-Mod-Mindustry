@@ -1,0 +1,13 @@
+name: Aide  
+type: MinerDrone
+description: "peut miner"
+health: 150
+flying: true
+"hitsize": 5  
+"armor": 0
+"itemCapacity": 20
+"engineOffset": 5  
+"faceTarget": true
+mineTier: 2  
+mineSpeed: 1.5
+mineRange: 40
