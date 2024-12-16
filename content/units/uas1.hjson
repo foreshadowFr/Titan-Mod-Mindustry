@@ -12,4 +12,4 @@ mineTier: 2
 mineSpeed: 1.5
 mineRange: 40
 research: "air-unit-factory"
-constructor: UnitEntity::new
+
