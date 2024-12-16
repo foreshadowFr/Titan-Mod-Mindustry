@@ -1,0 +1,29 @@
+type: UnitFactory
+name: "Air Unit Factory"
+description: "makes air units using ressources"
+size: 3
+consumes: {
+  power: 1
+}
+plans: [
+{
+  unit: uas1
+  time: 1500
+  requirements: [
+  iron-engine/15
+  iron-plate/5
+  ]
+}
+]
+  requirements: [
+  polished-ice/100
+  iron-plate/100
+  ]
+  research: {
+  parent: ground-unit-factory
+  }
+researchCost: [
+  polished-ice/1000
+  iron-plate/1000
+]
+category: units
