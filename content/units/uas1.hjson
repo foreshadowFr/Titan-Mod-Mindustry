@@ -1,5 +1,5 @@
 name: Aide  
-type: Flying
+type: flying
 description: "peut miner"
 health: 150
 flying: true
