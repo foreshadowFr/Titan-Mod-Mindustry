@@ -20,7 +20,7 @@ plans: [
   iron-plate/100
   ]
   research: {
-  parent: ground-unit-factory
+  parent: core-1
   }
 researchCost: [
   polished-ice/1000
