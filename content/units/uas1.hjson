@@ -1,3 +1,4 @@
+"controller": "MinerAI"
 name: Aide  
 type: flying
 description: "peut miner"
@@ -8,8 +9,11 @@ flying: true
 "itemCapacity": 20
 "engineOffset": 5  
 "faceTarget": true
+armor: 5
+itemCapacity: 20
 mineTier: 2  
 mineSpeed: 1.5
+canAttack: false
 mineRange: 40
 research: "air-unit-factory"
 
