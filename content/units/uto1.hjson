@@ -3,11 +3,11 @@ name: "Meteore"
 description: "test"
 speed: 0.5
 health: 100
-armor: 0
+armor: 100
 faceTarget: true
 rotateSpeed: 5
 hovering: false
-allowLegStep: true
+allowLegStep: false
 //si l'unité terrestre peut voler ou pas, comme le Nova
 canBoost: false  
 canDrown: true
@@ -19,9 +19,10 @@ weapons: [
   shots: 10
   shootSound: shoot
   bullet: {
-  type: bullet
+  type: Bullet
   damage: 20
   speed: 8
+  innacuracy: 2
   //la portée de la balle
   lifetime: 50  
 }
