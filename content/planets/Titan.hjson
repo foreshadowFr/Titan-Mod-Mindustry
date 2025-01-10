@@ -46,7 +46,7 @@ planet: Titan
 seed: 4
 speed: 1
 radius: 0.2
-divisions: 4
+divisions: 2
 color: d9d480
 octave: 2
 persistance: 5
@@ -59,7 +59,7 @@ persistance: 5
      seed: 69
      color1: E0D269
      color2: 53442D
-     divions: 6
+     divions: 2
      radius: 0.5
      octaves: 8
      persistance: 1
