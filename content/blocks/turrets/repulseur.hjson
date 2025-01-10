@@ -4,7 +4,7 @@ description: "Tourelle anti-aérienne de base."
 health: "750"
 size: 2
 shots: 1
-reload: 2.5
+reload: 5
 itemCapacity: 10
 range: 200
 recoil: 1
