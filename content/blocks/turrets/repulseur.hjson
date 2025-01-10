@@ -1,0 +1,33 @@
+type: ItemTurret
+name: "Répulseur"
+description: "Tourelle anti-aérienne de base."
+health: "750"
+size: 2
+shots: 8
+alternate: true
+itemCapacity: 10
+range: 50
+recoil: 1
+shootSound: shoot
+spread: 5
+innacuracy: 2
+rotateSpeed: 2
+targetGround: false
+targetAir: true
+ammoTypes: {
+  polished-ice: {
+    type: BasicBulletType
+    lifetime: 55
+    speed: 7.5
+    damage: 5
+    shootEffect: shootSmall
+    collidesAir: true
+    collidesGround: false
+  }
+  }
+requirements: [
+  iron/50
+  polished-ice/20
+]
+category: turret
+research: rock
