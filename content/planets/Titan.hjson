@@ -59,11 +59,11 @@ persistance: 5
      seed: 69
      color1: E0D269
      color2: 53442D
-     divions: 1
-     radius: 0.5
+     divions: 4
+     radius: 0.8
      octaves: 8
      persistance: 1
-     scale: 1
+     scale: 2
      mag: 1
    }
 
