@@ -46,7 +46,7 @@ planet: Titan
 seed: 4
 speed: 1
 radius: 0.1
-divisions: 6
+divisions: 4
 color: 8c988e
 octave: 2
 persistance: 5
@@ -59,7 +59,7 @@ persistance: 5
       "seed": 69,
       "color1": "ae7331",
       "color2": "6f4833",
-      "divisions": 6,
+      "divisions": 4,
       "radius": 1,
       "octaves": 8,
       "persistence": 1,
