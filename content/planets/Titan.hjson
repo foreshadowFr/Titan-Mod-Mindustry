@@ -45,7 +45,7 @@ type: HexSkyMesh
 planet: Titan
 seed: 96
 speed: 1
-radius: 0.05
+radius: 0.1
 divisions: 4
 color: 8c988e
 octave: 2
@@ -64,5 +64,5 @@ persistance: 5
       "octaves": 8,
       "persistence": 1,
       "scale": 1,
-      "mag": 2
+      "mag": 1
     }
