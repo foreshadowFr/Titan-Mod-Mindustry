@@ -59,7 +59,7 @@ persistance: 5
       "seed": 69,
       "color1": "E0D269",
       "color2": "53442D",
-      "divisions": 4,
+      "divisions": 6,
       "radius": 1,
       "octaves": 8,
       "persistence": 1,
