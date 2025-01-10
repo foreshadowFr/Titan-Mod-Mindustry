@@ -3,14 +3,14 @@ name: "Répulseur"
 description: "Tourelle anti-aérienne de base."
 health: "750"
 size: 2
-shots: 2
-reload: 1
+shots: 1
+reload: 2.5
 itemCapacity: 10
 range: 200
 recoil: 1
 shootSound: shoot
 spread: 10
-innacuracy: 10
+inaccuracy: 10
 rotateSpeed: 2
 targetGround: false
 targetAir: true
