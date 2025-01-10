@@ -43,9 +43,9 @@ hiddenItems: [
 cloudMesh: {
 type: HexSkyMesh
 planet: Titan
-seed: 4
+seed: 96
 speed: 1
-radius: 0.2
+radius: 0.05
 divisions: 4
 color: 8c988e
 octave: 2
