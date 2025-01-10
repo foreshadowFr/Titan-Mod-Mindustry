@@ -1,4 +1,5 @@
 "controller": "MinerAI"
+defaultCommand: "mine"
 name: Aide  
 type: flying
 description: "peut miner"
