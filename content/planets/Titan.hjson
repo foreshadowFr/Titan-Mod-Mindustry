@@ -53,17 +53,16 @@ persistance: 5
   scl: 1
   thresh: 0.45
 }
-   mesh: {
-     type: NoiseMesh
-     planet: Titan
-     seed: 69
-     color1: E0D269
-     color2: 53442D
-     divions: 10
-     radius: 1
-     octaves: 8
-     persistance: 1
-     scale: 10
-     mag: 1
-   }
-
+    "mesh": {
+      "type": "NoiseMesh",
+      "planet": "Zilo",
+      "seed": 69,
+      "color1": " ffffff",
+      "color2": "498a8a",
+      "divisions": 4,
+      "radius": 0.8,
+      "octaves": 8,
+      "persistence": 1,
+      "scale": 2,
+      "mag": 1
+    }
