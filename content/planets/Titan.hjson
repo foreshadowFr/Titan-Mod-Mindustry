@@ -63,7 +63,7 @@ persistance: 5
      radius: 1
      octaves: 8
      persistance: 1
-     scale: 10
+     scale: 1
      mag: 1
    }
 
