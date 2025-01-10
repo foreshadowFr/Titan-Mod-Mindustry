@@ -64,5 +64,5 @@ persistance: 5
       "octaves": 8,
       "persistence": 1,
       "scale": 2,
-      "mag": 1
+      "mag": 2
     }
