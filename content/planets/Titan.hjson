@@ -56,14 +56,14 @@ persistance: 5
    mesh: {
      type: NoiseMesh
      planet: Titan
-     seed: 82
+     seed: 69
      color1: E0D269
      color2: 53442D
      divions: 10
      radius: 1
      octaves: 8
      persistance: 1
-     scale: 1
+     scale: 10
      mag: 1
    }
 
