@@ -55,12 +55,12 @@ persistance: 5
 }
     "mesh": {
       "type": "NoiseMesh",
-      "planet": "Zilo",
+      "planet": "Titan",
       "seed": 69,
-      "color1": " ffffff",
-      "color2": "498a8a",
+      "color1": "E0D269",
+      "color2": "53442D",
       "divisions": 4,
-      "radius": 0.8,
+      "radius": 1,
       "octaves": 8,
       "persistence": 1,
       "scale": 2,
