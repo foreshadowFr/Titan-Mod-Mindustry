@@ -45,7 +45,7 @@ type: HexSkyMesh
 planet: Titan
 seed: 4
 speed: 1
-radius: 0.2
+radius: 0.1
 divisions: 6
 color: d9d480
 octave: 2
@@ -59,7 +59,7 @@ persistance: 5
      seed: 69
      color1: E0D269
      color2: 53442D
-     divions: 5
+     divions: 10
      radius: 1
      octaves: 8
      persistance: 1
