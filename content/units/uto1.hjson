@@ -1,4 +1,6 @@
-type: mech
+type: tank
+"template": "ErekirUnitType",
+"squareShape": true,
 name: "Meteore"
 description: "test"
 speed: 0.5
@@ -6,11 +8,31 @@ health: 100
 armor: 100
 faceTarget: true
 rotateSpeed: 5
-hovering: false
-allowLegStep: false
 //si l'unité terrestre peut voler ou pas, comme le Nova
 canBoost: false  
 canDrown: true
+"treadFrames": 18,
+"treadPullOffset": 1,
+"treadRects": [
+{
+"x": 65, 
+"y": 70, 
+"width": 131, 
+"height": 180
+},
+{
+"x": 46, 
+"y": -248, 
+"width": 85, 
+"height": 63
+},
+{
+"x": 166, 
+"y": -183.5, 
+"width": 32, 
+"height": 39
+}
+],
 weapons: [
 {
   name: "test"
