@@ -50,7 +50,7 @@ divisions: 6
 color: 8c988e
 octave: 2
 persistance: 5
-  scl: 2
+  scl: 5
   thresh: 0.45
 }
     "mesh": {
