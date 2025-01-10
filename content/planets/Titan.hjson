@@ -47,7 +47,7 @@ seed: 4
 speed: 1
 radius: 0.1
 divisions: 6
-color: d9d480
+color: 8c988e
 octave: 2
 persistance: 5
   scl: 1
@@ -57,8 +57,8 @@ persistance: 5
       "type": "NoiseMesh",
       "planet": "Titan",
       "seed": 69,
-      "color1": "E0D269",
-      "color2": "53442D",
+      "color1": "ae7331",
+      "color2": "6f4833",
       "divisions": 6,
       "radius": 1,
       "octaves": 8,
