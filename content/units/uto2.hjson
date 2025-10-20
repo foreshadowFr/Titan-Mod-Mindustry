@@ -1,0 +1,40 @@
+type: tank
+"template": "ErekirUnitType",
+"squareShape": true,
+name: "Astéroïde"
+description: "T2 tank unit"
+  speed: 0.4
+health: 300
+armor: 200
+range: 40
+  
+faceTarget: true
+rotateSpeed: 3
+canBoost: false  
+canDrown: true
+"treadFrames": 18,
+"treadPullOffset": 1,
+"treadRects": [
+{
+"x": 0, 
+"y": 0, 
+"width": 64, 
+"height": 64
+},
+  weapons: [
+{
+  name: "test"
+  reload: 15
+  //nombre de balles par tir
+  shots: 2
+  shootSound: shoot
+  bullet: {
+  type: Bullet
+  damage: 50
+  speed: 3
+  innacuracy: 3
+  //la portée de la balle
+  lifetime: 70
+}
+}
+]
