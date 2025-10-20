@@ -26,17 +26,17 @@ canDrown: true
 weapons: [
 {
   name: "test"
-  reload: 0.1
+  reload: 10
   //nombre de balles par tir
-  shots: 3
+  shots: 1
   shootSound: shoot
   bullet: {
   type: Bullet
   damage: 20
-  speed: 1
+  speed: 3
   innacuracy: 2
   //la portée de la balle
-  lifetime: 40
+  lifetime: 60
 }
 }
 ]
