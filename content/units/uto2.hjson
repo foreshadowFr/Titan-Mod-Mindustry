@@ -38,3 +38,5 @@ canDrown: true
 }
 }
 ]
+research: "uto1"
+category: GroundUnit  
