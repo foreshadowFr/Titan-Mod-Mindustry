@@ -4,8 +4,11 @@ type: tank
 name: "Meteore"
 description: "test"
 speed: 0.5
+accel: 5.0
 health: 100
 armor: 100
+range: 30.0
+
 faceTarget: true
 rotateSpeed: 5
 //si l'unité terrestre peut voler ou pas, comme le Nova
@@ -35,6 +38,8 @@ canDrown: true
 ],
 weapons: [
 {
+  machine-gun: {
+type: 
   name: "test"
   reload: 10
   //nombre de balles par tir
@@ -46,7 +51,8 @@ weapons: [
   speed: 8
   innacuracy: 2
   //la portée de la balle
-  lifetime: 50  
+  lifetime: 40
+}
 }
 }
 ]
