@@ -4,7 +4,6 @@ type: tank
 name: "Meteore"
 description: "test"
 speed: 0.5
-accel: 5.0
 health: 100
 armor: 100
 range: 30.0
@@ -18,23 +17,11 @@ canDrown: true
 "treadPullOffset": 1,
 "treadRects": [
 {
-"x": 65, 
-"y": 70, 
+"x": 0, 
+"y": 0, 
 "width": 131, 
 "height": 180
 },
-{
-"x": 46, 
-"y": -248, 
-"width": 85, 
-"height": 63
-},
-{
-"x": 166, 
-"y": -183.5, 
-"width": 32, 
-"height": 39
-}
 ],
 weapons: [
 {
@@ -46,7 +33,7 @@ weapons: [
   bullet: {
   type: Bullet
   damage: 20
-  speed: 8
+  speed: 1
   innacuracy: 2
   //la portée de la balle
   lifetime: 40
