@@ -38,8 +38,6 @@ canDrown: true
 ],
 weapons: [
 {
-  machine-gun: {
-type: 
   name: "test"
   reload: 0.1
   //nombre de balles par tir
@@ -52,7 +50,6 @@ type:
   innacuracy: 2
   //la portée de la balle
   lifetime: 40
-}
 }
 }
 ]
