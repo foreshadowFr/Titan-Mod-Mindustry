@@ -1,0 +1,22 @@
+type: Reconstructor
+name : "test"
+description : "this is a test"
+health : 400
+
+requirements: [
+  iron/100
+]
+category: units
+constructTime: 2400
+consumes: {
+  power: 5
+  items: {
+    items: [
+      copper/1
+      lead/1
+    ]
+  }
+}
+upgrades: [
+  [uto1, uto2]
+]
