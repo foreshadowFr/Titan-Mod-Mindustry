@@ -41,9 +41,9 @@ weapons: [
   machine-gun: {
 type: 
   name: "test"
-  reload: 10
+  reload: 0.1
   //nombre de balles par tir
-  shots: 10
+  shots: 3
   shootSound: shoot
   bullet: {
   type: Bullet
