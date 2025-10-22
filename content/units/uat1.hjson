@@ -1,5 +1,7 @@
 name: Module  
 type: flying
+"accel": 0.03,
+"drag": 0.05,
 description: "unité aérienne offensive basique."
 health: 100
 flying: true
