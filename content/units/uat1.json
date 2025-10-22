@@ -1,0 +1,29 @@
+name: Module  
+type: flying
+description: "unité aérienne offensive basique."
+health: 100
+flying: true
+"hitsize": 5  
+"armor": 0
+"itemCapacity": 5
+"engineOffset": 5  
+"faceTarget": true
+itemCapacity: 20
+rotateSpeed: 10
+range: 25
+weapons: [
+{
+  name: "test"
+  reload: 10
+  //nombre de balles par tir
+  shots: 1
+  shootSound: shoot
+  bullet: {
+  type: Bullet
+  damage: 10
+  speed: 4
+  innacuracy: 3
+  //la portée de la balle
+  lifetime: 30
+}
+research: "air-unit-factory"
