@@ -10,8 +10,6 @@ flying: true
 "itemCapacity": 20
 "engineOffset": 5  
 "faceTarget": true
-armor: 5
-itemCapacity: 20
 mineTier: 2  
 mineSpeed: 1.5
 canAttack: false
