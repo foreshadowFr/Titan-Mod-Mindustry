@@ -28,6 +28,9 @@ canDrown: true
   reload: 10
   recoil: 5
   alternate: false
+  x: 0
+  y: 0
+  spacing: 0
   bullet: {
   //nombre de balles par tir
   shots: 1
