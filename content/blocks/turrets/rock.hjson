@@ -20,10 +20,6 @@ ammoTypes: {
     splashDamageRadius: 3
   }
 }
-drawer: {
-  type: DrawTurret
-  basePrefix: top-
-}
 requirements: [
 iron-plate/20
 ]
