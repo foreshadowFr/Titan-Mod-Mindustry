@@ -24,15 +24,15 @@ canDrown: true
 ],
   weapons: [
 {
+machine-gun: {
   name: "test"
   reload: 15
   //nombre de balles par tir
   shots: 2
   shootSound: shoot
-  bullet: {
-  type: Bullet
+  type: BasicBulletType
   damage: 50
-  speed: 3
+  speed: 4
   innacuracy: 3
   //la portée de la balle
   lifetime: 70
