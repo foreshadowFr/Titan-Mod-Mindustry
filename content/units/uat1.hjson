@@ -5,7 +5,7 @@ health: 100
 flying: true
 "hitsize": 5  
 "armor": 0
-speed: 5
+speed: 4
 "itemCapacity": 5
 "engineOffset": 5  
 "faceTarget": true
@@ -18,7 +18,7 @@ weapons: [
   reload: 10
   //nombre de balles par tir
   shots: 1
-  shootSound: shootBig
+  shootSound: shootAlt
   bullet: {
   type: Bullet
   damage: 10
