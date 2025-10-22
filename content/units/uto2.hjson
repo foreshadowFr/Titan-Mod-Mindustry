@@ -26,7 +26,7 @@ canDrown: true
 {
 machine-gun: {
   name: "test"
-  reload: 15
+  reload: 100
   //nombre de balles par tir
   shots: 2
   shootSound: shoot
