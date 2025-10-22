@@ -30,9 +30,9 @@ canDrown: true
   alternate: false
   bullet: {
   //nombre de balles par tir
-  shots: 2
-  shootSound: shootBig
-  type: BasicBulletType
+  shots: 1
+  shootSound: shootAltLong
+  type: MissileBulletType
   damage: 50
   speed: 5
   innacuracy: 6
