@@ -40,7 +40,6 @@ canDrown: true
   lifetime: 70
 }
 }
-}
 ]
 research: "uto1"
 category: GroundUnit  
