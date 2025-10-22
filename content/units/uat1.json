@@ -26,4 +26,6 @@ weapons: [
   //la portée de la balle
   lifetime: 30
 }
+}
+]
 research: "air-unit-factory"
