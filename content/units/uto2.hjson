@@ -4,11 +4,11 @@ type: tank
 name: "Astéroïde"
 description: "T2 tank unit"
   speed: 0.4
-health: 300
+health: 350
 armor: 200
 range: 40
   
-faceTarget: true
+faceTarget: false
 rotateSpeed: 3
 canBoost: false  
 canDrown: true
@@ -24,18 +24,21 @@ canDrown: true
 ],
   weapons: [
 {
-machine-gun: {
   name: "test"
-  reload: 100
+  reload: 10
+  recoil: 5
+  alternate: false
+  bullet: {
   //nombre de balles par tir
   shots: 2
-  shootSound: shoot
+  shootSound: shootBig
   type: BasicBulletType
   damage: 50
-  speed: 4
-  innacuracy: 3
+  speed: 5
+  innacuracy: 6
   //la portée de la balle
   lifetime: 70
+}
 }
 }
 ]
